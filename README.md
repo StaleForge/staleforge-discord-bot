@@ -23,11 +23,9 @@ I am currently planning to expand the core concepts of this bot into a fully ope
 
 ### 📸 Proof of Creation (2023)
 *(Screenshots showing the original file creation and modification timestamps from late 2023, prior to this modern refactoring)*  
-<p align="center">
-  <img src="screenshot.png" alt="2023 Creation Proof 1" width="600"/>
-  <br><br>
-  <img src="screenshot2.png" alt="2023 Creation Proof 2" width="600"/>
-</p>
+
+![2023 Creation Proof 1](assets/screenshot.png)
+![2023 Creation Proof 2](assets/screenshot2.png)
 
 ### Key Features
 - **🎫 Advanced Ticket System** - Full UI-based ticket creation with role constraints, transcript logging, and modular operator assignment.
@@ -71,11 +69,9 @@ Obecnie planuję rozwinąć główne koncepcje tego bota w pełnoprawną, otwart
 
 ### 📸 Dowód Powstania (2023)
 *(Zrzuty ekranu z eksploratora plików pokazujące daty modyfikacji i utworzenia plików w 2023 roku, przed obecną refaktoryzacją)*  
-<p align="center">
-  <img src="screenshot.png" alt="Dowód z 2023 r. - cz. 1" width="600"/>
-  <br><br>
-  <img src="screenshot2.png" alt="Dowód z 2023 r. - cz. 2" width="600"/>
-</p>
+
+![Dowód z 2023 r. - cz. 1](assets/screenshot.png)
+![Dowód z 2023 r. - cz. 2](assets/screenshot2.png)
 
 ### Główne Funkcje
 - **🎫 Zaawansowany System Ticketów** - Tworzenie biletów pomocy (UI), ograniczenia ról, logowanie transkryptów i modularne przypisywanie operatorów.
